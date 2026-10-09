@@ -1,5 +1,8 @@
 # Day 23 — Disaster Recovery & High Availability for AI Infrastructure
 
+- **Sinh viên:** Phạm Minh Cương
+- **Mã sinh viên:** 2A202602825
+
 **Lab format:** 2 hours · **Environment:** fully local, no cloud account required · **Core idea:** kill your own region first, then learn to survive it.
 
 > RTO/RPO are numbers you *measure* from logs — not numbers you read off a slide.
